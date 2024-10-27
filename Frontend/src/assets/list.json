@@ -1,0 +1,80 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://images.pexels.com/photos/1976971/pexels-photo-1976971.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
+    },{
+        "id":2,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        "price":100,
+        "category":"Food",
+        "image":"https://images.pexels.com/photos/1976971/pexels-photo-1976971.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
+    },{
+        "id":3,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        "price":20,
+        "category":"Free",
+        "image":"https://images.pexels.com/photos/1976971/pexels-photo-1976971.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
+    },{
+        "id":4,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        "price":30,
+        "category":"Free",
+        "image":"https://images.pexels.com/photos/1976971/pexels-photo-1976971.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
+    },{
+        "id":5,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        "price":40,
+        "category":"Free",
+        "image":"https://images.pexels.com/photos/1976971/pexels-photo-1976971.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
+    },{
+        "id":6,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        "price":50,
+        "category":"Free",
+        "image":"https://images.pexels.com/photos/1976971/pexels-photo-1976971.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
+    },{
+        "id":7,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        "price":60,
+        "category":"Free",
+        "image":"https://images.pexels.com/photos/1976971/pexels-photo-1976971.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
+    },{
+        "id":8,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        "price":70,
+        "category":"Fiction",
+        "image":"https://images.pexels.com/photos/1976971/pexels-photo-1976971.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
+    },{
+        "id":9,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        "price":80,
+        "category":"Fruit",
+        "image":"https://images.pexels.com/photos/1976971/pexels-photo-1976971.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
+    },{
+        "id":10,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        "price":90,
+        "category":"Nice",
+        "image":"https://images.pexels.com/photos/1976971/pexels-photo-1976971.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
+    },{
+        "id":11,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        "price":100,
+        "category":"Sports",
+        "image":"https://images.pexels.com/photos/1976971/pexels-photo-1976971.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
+    }
+]
